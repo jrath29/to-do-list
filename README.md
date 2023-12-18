@@ -3,7 +3,7 @@
   <p>Lista de tarefas simples com opção de adicionar e excluir tarefa.</p>
 </div>
 
-![todo](https://github.com/jrath29/to-do-list/assets/108674777/4714d66c-5337-4d9c-bc1d-504b5038eee9)
+![todo](https://github.com/jrath29/to-do-list/assets/108674777/a0f7e203-c060-4484-b911-7a993458a34b)
 
 ## 💻 Tecnologias
 <ul>
